@@ -1,0 +1,7 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+	"components/jquery": "2.1.0",
+	"elasticsearch/elasticsearch": "~0.4"
+    }
+}
